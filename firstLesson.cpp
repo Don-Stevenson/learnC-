@@ -3,10 +3,9 @@
 using namespace std;
 
 int main() {
- cout << "Hello wolrd" >> endl;
+ cout << "Hello wolrd" << endl;
 
- cin.get()
+ cin.get();
 
  return 0;
-
 }

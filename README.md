@@ -1,2 +1,2 @@
-# learnC-
+# learnC++
 practicing with C++
